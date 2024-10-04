@@ -1,0 +1,18 @@
+Geoffrey E Hinton, Peter Dayan, Brendan J Frey, and Radford M Neal. The ”wake-sleep” algorithm
+for unsupervised neural networks. Science, 268(5214):1158–1161, 1995.
+
+Memory-Based Dual Gaussian Processes for Sequential Learning
+
+Gaussian Process Priors for View-Aware Inference
+
+OpenSTL: A Comprehensive Benchmark of
+Spatio-Temporal Predictive Learning
+
+SimVP: Towards Simple yet Powerful
+Spatiotemporal Predictive Learning
+
+Scalable spatiotemporal prediction with Bayesian neural fields
+
+Unsupervised-to-Online Reinforcement Learning
+
+Intrinsic Motivation in Dynamical Control Systems
