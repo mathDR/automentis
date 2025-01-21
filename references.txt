@@ -16,3 +16,23 @@ Scalable spatiotemporal prediction with Bayesian neural fields
 Unsupervised-to-Online Reinforcement Learning
 
 Intrinsic Motivation in Dynamical Control Systems
+
+Nonstationary multi-output Gaussian processes via harmonizable spectral mixtures
+
+sremes/nssm-gp: Non-stationary spectral mixture kernels implemented in GPflow
+
+Learning Control from Raw Position Measurements
+
+Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders
+
+Active Learning for Deep Gaussian Process Surrogates
+
+Combating the Compounding-Error Problem with a Multi-step Model
+
+Learning control of underactuated double pendulum with Model-Based Reinforcement Learning
+
+Streaming Deep Reinforcement Learning finally works
+
+COPLANNER: Plan to roll out conservatively but to explore optimistically for model based rl
+
+Plan to predict: learning and Uncertaintly foreseeing model for model based rl
