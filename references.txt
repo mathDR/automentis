@@ -36,3 +36,7 @@ Streaming Deep Reinforcement Learning finally works
 COPLANNER: Plan to roll out conservatively but to explore optimistically for model based rl
 
 Plan to predict: learning and Uncertaintly foreseeing model for model based rl
+
+Adaptive compression as a unifying framework for episodic and semantic memory
+
+A Pontryagin Perspective on Reinforcement Learning
